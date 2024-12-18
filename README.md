@@ -1,5 +1,7 @@
 # BabaYagaLdr
 
+EDRs Tested Against: SentinelOne
+
 BabaYagaLdr is a proof-of-concept (PoC) tool designed for advanced shellcode injection and execution with an emphasis on evasion techniques to bypass Endpoint Detection and Response (EDR) solutions. It leverages various anti-detection strategies, including process injection, API obfuscation, and stealthy memory manipulation, to avoid triggering common security mechanisms.
 
 Key Features
