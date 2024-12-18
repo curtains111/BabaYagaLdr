@@ -24,3 +24,7 @@ EDR Evasion: Employs techniques to avoid detection based on MITRE ATT&CK techniq
 Defense Evasion: Dynamic API resolution, memory obfuscation, and stealthy shellcode execution.
 Execution: Indirect execution using APC queues.
 Privilege Escalation: Injecting into privileged processes if necessary.
+
+#Disclaimer
+
+BabaYagaLdr is intended for educational purposes and security research only. The use of this tool against systems you do not own or have explicit permission to test is illegal and unethical. The authors of this tool are not responsible for misuse or damage caused by this software.
