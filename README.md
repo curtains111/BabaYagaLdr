@@ -2,7 +2,7 @@
 
 ## EDRs Tested Against: SentinelOne
 
-## Make sure to use a good UDRL like OdinLdr or AceLdr 
+### Make sure to use a good UDRL like OdinLdr or AceLdr !!
 
 BabaYagaLdr is a proof-of-concept (PoC) tool designed for advanced shellcode injection and execution with an emphasis on evasion techniques to bypass Endpoint Detection and Response (EDR) solutions.
 
